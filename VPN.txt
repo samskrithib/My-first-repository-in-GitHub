@@ -1,0 +1,20 @@
+vpn4.digitalhouse.biz
+bunrot
+s547Bftj
+ 
+pilot10.dev-env.biz 
+user: gs2c 
+pwd: cucrA4vK
+
+
+192.168.51.1
+DNS 202.62.64.3
+8.8.8.8
+
+
+username:praveensali
+123456
+
+github
+samskrithib
+2008a5ps620h
