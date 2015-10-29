@@ -15,6 +15,3 @@ DNS 202.62.64.3
 username:praveensali
 123456
 
-github
-samskrithib
-2008a5ps620h
